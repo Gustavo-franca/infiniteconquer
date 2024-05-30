@@ -1,0 +1,613 @@
+{
+    "map_name": "name",
+    "size_x": 0,
+    "size_y": 0,
+    "cities": null,
+    "territories": [
+        {
+            "type": "mountain",
+            "position_X": 0,
+            "position_Y": 0
+        },
+        {
+            "type": "mountain",
+            "position_X": 0,
+            "position_Y": 1
+        },
+        {
+            "type": "flat_land",
+            "position_X": 0,
+            "position_Y": 2
+        },
+        {
+            "type": "mountain",
+            "position_X": 0,
+            "position_Y": 3
+        },
+        {
+            "type": "flat_land",
+            "position_X": 0,
+            "position_Y": 4
+        },
+        {
+            "type": "flat_land",
+            "position_X": 0,
+            "position_Y": 5
+        },
+        {
+            "type": "mountain",
+            "position_X": 0,
+            "position_Y": 6
+        },
+        {
+            "type": "mountain",
+            "position_X": 0,
+            "position_Y": 7
+        },
+        {
+            "type": "mountain",
+            "position_X": 0,
+            "position_Y": 8
+        },
+        {
+            "type": "flat_land",
+            "position_X": 0,
+            "position_Y": 9
+        },
+        {
+            "type": "flat_land",
+            "position_X": 0,
+            "position_Y": 10
+        },
+        {
+            "type": "flat_land",
+            "position_X": 1,
+            "position_Y": 0
+        },
+        {
+            "type": "flat_land",
+            "position_X": 1,
+            "position_Y": 1
+        },
+        {
+            "type": "flat_land",
+            "position_X": 1,
+            "position_Y": 2
+        },
+        {
+            "type": "mountain",
+            "position_X": 1,
+            "position_Y": 3
+        },
+        {
+            "type": "flat_land",
+            "position_X": 1,
+            "position_Y": 4
+        },
+        {
+            "type": "flat_land",
+            "position_X": 1,
+            "position_Y": 5
+        },
+        {
+            "type": "mountain",
+            "position_X": 1,
+            "position_Y": 6
+        },
+        {
+            "type": "flat_land",
+            "position_X": 1,
+            "position_Y": 7
+        },
+        {
+            "type": "flat_land",
+            "position_X": 1,
+            "position_Y": 8
+        },
+        {
+            "type": "mountain",
+            "position_X": 1,
+            "position_Y": 9
+        },
+        {
+            "type": "flat_land",
+            "position_X": 1,
+            "position_Y": 10
+        },
+        {
+            "type": "flat_land",
+            "position_X": 2,
+            "position_Y": 0
+        },
+        {
+            "type": "mountain",
+            "position_X": 2,
+            "position_Y": 1
+        },
+        {
+            "type": "flat_land",
+            "position_X": 2,
+            "position_Y": 2
+        },
+        {
+            "type": "flat_land",
+            "position_X": 2,
+            "position_Y": 3
+        },
+        {
+            "type": "flat_land",
+            "position_X": 2,
+            "position_Y": 4
+        },
+        {
+            "type": "flat_land",
+            "position_X": 2,
+            "position_Y": 5
+        },
+        {
+            "type": "flat_land",
+            "position_X": 2,
+            "position_Y": 6
+        },
+        {
+            "type": "flat_land",
+            "position_X": 2,
+            "position_Y": 7
+        },
+        {
+            "type": "flat_land",
+            "position_X": 2,
+            "position_Y": 8
+        },
+        {
+            "type": "flat_land",
+            "position_X": 2,
+            "position_Y": 9
+        },
+        {
+            "type": "mountain",
+            "position_X": 2,
+            "position_Y": 10
+        },
+        {
+            "type": "flat_land",
+            "position_X": 3,
+            "position_Y": 0
+        },
+        {
+            "type": "flat_land",
+            "position_X": 3,
+            "position_Y": 1
+        },
+        {
+            "type": "flat_land",
+            "position_X": 3,
+            "position_Y": 2
+        },
+        {
+            "type": "mountain",
+            "position_X": 3,
+            "position_Y": 3
+        },
+        {
+            "type": "mountain",
+            "position_X": 3,
+            "position_Y": 4
+        },
+        {
+            "type": "flat_land",
+            "position_X": 3,
+            "position_Y": 5
+        },
+        {
+            "type": "flat_land",
+            "position_X": 3,
+            "position_Y": 6
+        },
+        {
+            "type": "flat_land",
+            "position_X": 3,
+            "position_Y": 7
+        },
+        {
+            "type": "flat_land",
+            "position_X": 3,
+            "position_Y": 8
+        },
+        {
+            "type": "flat_land",
+            "position_X": 3,
+            "position_Y": 9
+        },
+        {
+            "type": "flat_land",
+            "position_X": 3,
+            "position_Y": 10
+        },
+        {
+            "type": "flat_land",
+            "position_X": 4,
+            "position_Y": 0
+        },
+        {
+            "type": "flat_land",
+            "position_X": 4,
+            "position_Y": 1
+        },
+        {
+            "type": "flat_land",
+            "position_X": 4,
+            "position_Y": 2
+        },
+        {
+            "type": "mountain",
+            "position_X": 4,
+            "position_Y": 3
+        },
+        {
+            "type": "flat_land",
+            "position_X": 4,
+            "position_Y": 4
+        },
+        {
+            "type": "flat_land",
+            "position_X": 4,
+            "position_Y": 5
+        },
+        {
+            "type": "flat_land",
+            "position_X": 4,
+            "position_Y": 6
+        },
+        {
+            "type": "mountain",
+            "position_X": 4,
+            "position_Y": 7
+        },
+        {
+            "type": "flat_land",
+            "position_X": 4,
+            "position_Y": 8
+        },
+        {
+            "type": "flat_land",
+            "position_X": 4,
+            "position_Y": 9
+        },
+        {
+            "type": "flat_land",
+            "position_X": 4,
+            "position_Y": 10
+        },
+        {
+            "type": "flat_land",
+            "position_X": 5,
+            "position_Y": 0
+        },
+        {
+            "type": "flat_land",
+            "position_X": 5,
+            "position_Y": 1
+        },
+        {
+            "type": "flat_land",
+            "position_X": 5,
+            "position_Y": 2
+        },
+        {
+            "type": "flat_land",
+            "position_X": 5,
+            "position_Y": 3
+        },
+        {
+            "type": "flat_land",
+            "position_X": 5,
+            "position_Y": 4
+        },
+        {
+            "type": "flat_land",
+            "position_X": 5,
+            "position_Y": 5
+        },
+        {
+            "type": "mountain",
+            "position_X": 5,
+            "position_Y": 6
+        },
+        {
+            "type": "mountain",
+            "position_X": 5,
+            "position_Y": 7
+        },
+        {
+            "type": "flat_land",
+            "position_X": 5,
+            "position_Y": 8
+        },
+        {
+            "type": "flat_land",
+            "position_X": 5,
+            "position_Y": 9
+        },
+        {
+            "type": "flat_land",
+            "position_X": 5,
+            "position_Y": 10
+        },
+        {
+            "type": "flat_land",
+            "position_X": 6,
+            "position_Y": 0
+        },
+        {
+            "type": "flat_land",
+            "position_X": 6,
+            "position_Y": 1
+        },
+        {
+            "type": "flat_land",
+            "position_X": 6,
+            "position_Y": 2
+        },
+        {
+            "type": "flat_land",
+            "position_X": 6,
+            "position_Y": 3
+        },
+        {
+            "type": "flat_land",
+            "position_X": 6,
+            "position_Y": 4
+        },
+        {
+            "type": "flat_land",
+            "position_X": 6,
+            "position_Y": 5
+        },
+        {
+            "type": "flat_land",
+            "position_X": 6,
+            "position_Y": 6
+        },
+        {
+            "type": "flat_land",
+            "position_X": 6,
+            "position_Y": 7
+        },
+        {
+            "type": "mountain",
+            "position_X": 6,
+            "position_Y": 8
+        },
+        {
+            "type": "flat_land",
+            "position_X": 6,
+            "position_Y": 9
+        },
+        {
+            "type": "mountain",
+            "position_X": 6,
+            "position_Y": 10
+        },
+        {
+            "type": "flat_land",
+            "position_X": 7,
+            "position_Y": 0
+        },
+        {
+            "type": "flat_land",
+            "position_X": 7,
+            "position_Y": 1
+        },
+        {
+            "type": "flat_land",
+            "position_X": 7,
+            "position_Y": 2
+        },
+        {
+            "type": "flat_land",
+            "position_X": 7,
+            "position_Y": 3
+        },
+        {
+            "type": "mountain",
+            "position_X": 7,
+            "position_Y": 4
+        },
+        {
+            "type": "mountain",
+            "position_X": 7,
+            "position_Y": 5
+        },
+        {
+            "type": "mountain",
+            "position_X": 7,
+            "position_Y": 6
+        },
+        {
+            "type": "flat_land",
+            "position_X": 7,
+            "position_Y": 7
+        },
+        {
+            "type": "mountain",
+            "position_X": 7,
+            "position_Y": 8
+        },
+        {
+            "type": "flat_land",
+            "position_X": 7,
+            "position_Y": 9
+        },
+        {
+            "type": "mountain",
+            "position_X": 7,
+            "position_Y": 10
+        },
+        {
+            "type": "flat_land",
+            "position_X": 8,
+            "position_Y": 0
+        },
+        {
+            "type": "flat_land",
+            "position_X": 8,
+            "position_Y": 1
+        },
+        {
+            "type": "flat_land",
+            "position_X": 8,
+            "position_Y": 2
+        },
+        {
+            "type": "flat_land",
+            "position_X": 8,
+            "position_Y": 3
+        },
+        {
+            "type": "mountain",
+            "position_X": 8,
+            "position_Y": 4
+        },
+        {
+            "type": "mountain",
+            "position_X": 8,
+            "position_Y": 5
+        },
+        {
+            "type": "flat_land",
+            "position_X": 8,
+            "position_Y": 6
+        },
+        {
+            "type": "flat_land",
+            "position_X": 8,
+            "position_Y": 7
+        },
+        {
+            "type": "flat_land",
+            "position_X": 8,
+            "position_Y": 8
+        },
+        {
+            "type": "flat_land",
+            "position_X": 8,
+            "position_Y": 9
+        },
+        {
+            "type": "mountain",
+            "position_X": 8,
+            "position_Y": 10
+        },
+        {
+            "type": "flat_land",
+            "position_X": 9,
+            "position_Y": 0
+        },
+        {
+            "type": "flat_land",
+            "position_X": 9,
+            "position_Y": 1
+        },
+        {
+            "type": "flat_land",
+            "position_X": 9,
+            "position_Y": 2
+        },
+        {
+            "type": "mountain",
+            "position_X": 9,
+            "position_Y": 3
+        },
+        {
+            "type": "flat_land",
+            "position_X": 9,
+            "position_Y": 4
+        },
+        {
+            "type": "mountain",
+            "position_X": 9,
+            "position_Y": 5
+        },
+        {
+            "type": "flat_land",
+            "position_X": 9,
+            "position_Y": 6
+        },
+        {
+            "type": "mountain",
+            "position_X": 9,
+            "position_Y": 7
+        },
+        {
+            "type": "flat_land",
+            "position_X": 9,
+            "position_Y": 8
+        },
+        {
+            "type": "flat_land",
+            "position_X": 9,
+            "position_Y": 9
+        },
+        {
+            "type": "mountain",
+            "position_X": 9,
+            "position_Y": 10
+        },
+        {
+            "type": "flat_land",
+            "position_X": 10,
+            "position_Y": 0
+        },
+        {
+            "type": "mountain",
+            "position_X": 10,
+            "position_Y": 1
+        },
+        {
+            "type": "flat_land",
+            "position_X": 10,
+            "position_Y": 2
+        },
+        {
+            "type": "flat_land",
+            "position_X": 10,
+            "position_Y": 3
+        },
+        {
+            "type": "flat_land",
+            "position_X": 10,
+            "position_Y": 4
+        },
+        {
+            "type": "flat_land",
+            "position_X": 10,
+            "position_Y": 5
+        },
+        {
+            "type": "flat_land",
+            "position_X": 10,
+            "position_Y": 6
+        },
+        {
+            "type": "flat_land",
+            "position_X": 10,
+            "position_Y": 7
+        },
+        {
+            "type": "flat_land",
+            "position_X": 10,
+            "position_Y": 8
+        },
+        {
+            "type": "flat_land",
+            "position_X": 10,
+            "position_Y": 9
+        },
+        {
+            "type": "flat_land",
+            "position_X": 10,
+            "position_Y": 10
+        }
+    ]
+}
