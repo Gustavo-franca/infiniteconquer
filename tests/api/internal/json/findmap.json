@@ -1,0 +1,19 @@
+{
+    "map_name": "name",
+    "size_x" : 100,
+    "size_y" : 100,
+    "cities" : [
+        {
+        "city Name" : "AAA",
+        "position_X": 10,
+        "position_Y": 10
+        }
+    ],
+    "territories" : [
+        {
+        "type" : "flat_land",
+        "position_X": 10,
+        "position_Y": 10
+        }
+    ]
+    }
